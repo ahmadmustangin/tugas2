@@ -2,14 +2,14 @@
 Tugas 02 Weather <br> 
 Pemrograman Perangkat Moblie
 <br><br>
-Nama : Munib Tahta
+Nama : Ahmad Mustanginudin
 <br>
-Nim  : 2015150120
+Nim  : 2015150022
 <br>
-Kls  : 02
+Kls  : 01
 <br><br>
 QR CODE APP:
-<br><br><img src="qrcode.png">
+<br><br><img src="qrmus.png">
 <br><br>
 Screenshot App<br>
 <img height="50%"  width="50%" src="1.png">
