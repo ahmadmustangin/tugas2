@@ -12,4 +12,4 @@ QR CODE APP:
 <br><br><img src="qrmus.png">
 <br><br>
 Screenshot App<br>
-<img height="50%"  width="50%" src="1.png">
+<img height="50%"  width="50%" src="1.jpg">
